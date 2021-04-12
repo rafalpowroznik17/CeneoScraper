@@ -1,0 +1,112 @@
+[
+    {
+        "opinionId": "11729474",
+        "author": "Daniel",
+        "rcmd": true,
+        "stars": 5.0,
+        "content": "Używałem wcześniej galaxy buds  Te mają zdecydowanie lepsze basy  Są bardziej wygodne  Polecam ustawić tony na niskie korektorze (przynajmniej tak w s10 jest) Środkowe i wysokie tony grają czysto   Jeśli szukasz airpodsowego kształtu zdecydowanie polecam",
+        "pros": [
+            "jakość dźwięku",
+            "wygląd",
+            "wygoda używania"
+        ],
+        "cons": [],
+        "purchased": false,
+        "publishDate": "2020-02-12 10:58:21",
+        "purchaseDate": null,
+        "useful": 10,
+        "useless": 0
+    },
+    {
+        "opinionId": "11729474",
+        "author": "Daniel",
+        "rcmd": true,
+        "stars": 5.0,
+        "content": "Używałem wcześniej galaxy buds  Te mają zdecydowanie lepsze basy  Są bardziej wygodne  Polecam ustawić tony na niskie korektorze (przynajmniej tak w s10 jest) Środkowe i wysokie tony grają czysto   Jeśli szukasz airpodsowego kształtu zdecydowanie polecam",
+        "pros": [
+            "jakość dźwięku",
+            "wygląd",
+            "wygoda używania"
+        ],
+        "cons": [],
+        "purchased": false,
+        "publishDate": "2020-02-12 10:58:21",
+        "purchaseDate": null,
+        "useful": 10,
+        "useless": 0
+    },
+    {
+        "opinionId": "13974926",
+        "author": "m...9",
+        "rcmd": false,
+        "stars": 2.0,
+        "content": "Słuchawki mają beznadziejny mikrofon, przy niepełnym naładowaniu (70%) działają ledwo ponad godzinę. Czasami zacinają. Za to dobra jakość dźwięku, są ładne i wygodne.",
+        "pros": [
+            "jakość dźwięku",
+            "wygląd"
+        ],
+        "cons": [
+            "słaby mikrofon",
+            "wygoda używania"
+        ],
+        "purchased": true,
+        "publishDate": "2021-02-17 20:34:27",
+        "purchaseDate": "2021-02-14 15:12:05",
+        "useful": 1,
+        "useless": 1
+    },
+    {
+        "opinionId": "13538337",
+        "author": "g...o",
+        "rcmd": true,
+        "stars": 5.0,
+        "content": "Super dźwięk",
+        "pros": [
+            "jakość dźwięku",
+            "wygląd",
+            "wygoda używania"
+        ],
+        "cons": [],
+        "purchased": true,
+        "publishDate": "2020-12-09 15:17:44",
+        "purchaseDate": "2020-11-28 18:31:54",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinionId": "13417830",
+        "author": "b...a",
+        "rcmd": false,
+        "stars": 0.5,
+        "content": "bardzo zly dzwiek",
+        "pros": [],
+        "cons": [
+            "jakość dźwięku",
+            "wygląd",
+            "wygoda używania"
+        ],
+        "purchased": true,
+        "publishDate": "2020-11-20 15:51:28",
+        "purchaseDate": "2020-11-09 23:35:28",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinionId": "11714792",
+        "author": "J...k",
+        "rcmd": false,
+        "stars": 1.5,
+        "content": "Niby Bluetooth 5 , a zasieg jak przy Bluetooth 4,1 max 20m w otwartej przestrzeni, w Budynku, mieszkaniu ok przez jedną ścianę, przez strop przycina.",
+        "pros": [
+            "jakość dźwięku",
+            "wygląd",
+            "wygoda używania"
+        ],
+        "cons": [],
+        "purchased": false,
+        "publishDate": "2020-02-09 09:02:43",
+        "purchaseDate": null,
+        "useful": 1,
+        "useless": 13
+    }
+]

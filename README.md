@@ -7,7 +7,7 @@
 - transformacja danych do docelowych typów
 
 |Składowa|Selektor CSS|Nazwa zmiennej|Typ danych|
-|........|............|..............|..........|
+|--------|------------|--------------|----------|
 |Opinia|div.js_product-review|opinion|bs4.element.Tag|
 |Identyfikator opinii|["data-entry-id"]|opinionId|str|
 |Autor|span.user-post__author-name|author|str|
