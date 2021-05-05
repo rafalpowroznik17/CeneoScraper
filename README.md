@@ -36,3 +36,20 @@
 
 ## Etap 4 - Refaktoryzacja kodu
 - parametryzacja identyfikatora opinii
+- zdefiniowanie funkcji do ekstrakcji pojedyńczych składowych opinii
+- dodanie słownika opisującego strukturę opinii wraz z selektorami potrzebnymi do ekstrakcji pojedyńczych składowych
+- użycie wyrażenia słownikowego (dictionary comprehension) do pobrania (i zapisania) składowych pojedyńczej opinii
+- rezygnacja z transformacji składowych opinii (przeniesienie tego procesu do analizy opinii)
+
+## Etap 5 - Analiza statystyczna zbioru opinii o produkcie
+- wyświetlenie listy kodów produktów, dla których zostały pobrane opinie
+- wczytanie opinii o wybranym produkcie do obiektu DataFrame
+- obliczenie podstawowych statystyk
+    * liczba opinii o produkcie
+    * liczba opinii, w których została podana liczba zalet
+    * liczba opinii, w których została podana liczba wad
+    * średnia ocena produktu wyznaczona na podstawie liczby gwiazdek
+
+## Etap 6 - Narysowanie wykresów opartych o dane ze zbioru opinii o produkcie
+- wykres kołowy obrazujący udział poszczególnych wartości rekomendacji w ogólnej liczbie opinii
+- wykres kolumnowy/słupkowy obrazujący częstość występowania opinii z poszczególnymi ocenami wyrażonymi liczbą gwiazdek

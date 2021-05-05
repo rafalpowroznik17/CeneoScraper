@@ -42,13 +42,6 @@ while response:
                         for key, value in components.items()}
 
         opinionDict["opinionId"] = opinion["data-entry-id"]
-        
-        """ rcmd = True if rcmd == "Polecam" else False
-        stars = float(stars.split("/")[0].replace(",", "."))
-        content = content.replace("\n", " ").replace("\r", " ")
-        purchased = bool(purchased)
-        useful = int(useful)
-        useless = int(useless) """
 
         opinionsList.append(opinionDict)
 
